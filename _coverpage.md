@@ -1,12 +1,10 @@
 <!-- _coverpage.md -->
 
-# Docsify使用指南 
+# Code Forge
 
-> 💪Docsify使用指南，使用Typora+Docsify打造最强、最轻量级的个人&团队文档。
+> 💪**Geek's Playground.** 探索未来，创造无限可能。
 
- 简单、轻便 (压缩后 ~21kB)
-- 无需生成 html 文件
-- 众多主题
-
+ 关于新技术、前沿趋势的实验笔记。打破常规，用代码实现每一次灵感闪现。
+- Don't just consume, **CREATE.**
 
 [开始使用 Let Go](/README.md)
